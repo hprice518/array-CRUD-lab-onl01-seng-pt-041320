@@ -37,5 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  last_array = ["wow","dang","zip"]
+  last_array = ["wow","dang","arrays"]
+  last_array[2]
 end
