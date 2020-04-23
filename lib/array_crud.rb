@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   front_array = ["wow", "zing", "pow"]
-  wow_array.shift
+  wow_array = front_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
